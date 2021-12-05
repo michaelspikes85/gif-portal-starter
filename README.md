@@ -1,16 +1,48 @@
-# buildspace Solana GIF Portal Project
+# Tronverse GIF Collector
+#### Author: Michael Spikes
 
-### **Welcome 👋**
-To get started with this course, clone this repo and follow these commands:
+An app build on the Solana blockchain to collect GIFs related to Tron by using Phantom Wallet.
 
-1. Run `npm install` at the root of your directory
-2. Run `npm run start` to start the project
-3. Start coding!
+# Table of Contents
+* [Installation](#installation)
+* [Usage](#usage)
+* [Technologies](#Technologies)
+* [Questions](#questions)
+* [Contributors](#contributors)
+* [License](#license)
 
-### **What is the .vscode Folder?**
-If you use VSCode to build your app, we included a list of suggested extensions that will help you build this project! Once you open this project in VSCode, you will see a popup asking if you want to download the recommended extensions :).
+## Installation
 
+npm i for package.json.
+npm start to start server.
 
+## Usage
 
-### **Questions?**
-Have some questions make sure you head over to your [buildspace Dashboard](https://app.buildspace.so/courses/CObd6d35ce-3394-4bd8-977e-cbee82ae07a3) and link your Discord account so you can get access to helpful channels and your instructor!
+Use Heroku to deploy.
+
+## Technologies
+
+React.js
+Solana
+Rust
+Web3
+Anchor
+Mocha
+
+## Questions
+
+Please email me with any questions.
+
+### Picture
+<img src="https://avatars1.githubusercontent.com/u/60369601?s=460&u=880237e4bc8760b2c928cd8e3d686f2103af3b7c&v=4">
+
+### Email 
+michael.spikes85@gmail.com
+
+## Contributors
+
+N/A
+
+## License
+
+<img src="https://img.shields.io/github/license/michaelspikes85/Burger-Tracker?style=plastic">
