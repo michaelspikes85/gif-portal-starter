@@ -19,7 +19,7 @@ const opts = {
   preflightCommitment: "processed",
 };
 
-const TWITTER_HANDLE = "SaisonDuSpikes";
+const TWITTER_HANDLE = "Mooshoofasa";
 const TWITTER_LINK = `https://twitter.com/${TWITTER_HANDLE}`;
 
 const App = () => {
